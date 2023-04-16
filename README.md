@@ -1,4 +1,4 @@
-# OpenTheatreBooking
+# OpenTheatreBooking - Alpha V1 
 This is a complete seat booking system that would work best in theatres or cinemas. The program allows a custom seat layout and the ability to add many performances to one page. Please note that this program is in very early stages of development and is missing many key features. If you are planning to use this project please make sure you have knowledge of HTML, JavaScript and PHP. 
 
 ![BookingExample](https://user-images.githubusercontent.com/16451536/232287999-218b0c0e-20e7-4b4b-a1fc-ecbd5f3dd093.jpeg)
