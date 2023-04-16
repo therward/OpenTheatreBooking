@@ -1,0 +1,42 @@
+
+<!-- SEAT Section - add this onto your website seat booking page -->
+
+<div class="SeatSection">
+    <div class="production-container">
+        <label>Pick a production</label>
+        <select id="production">
+            <option value="10">Wicked</option>
+            <option value="9">Hamilton</option>
+            <option value="8">Come From Away</option>
+            <option value="7">Phantom Of The Opera</option>
+        </select>
+    </div>
+    <ul class="showcase">
+        <li>
+            <div class="seat"></div>
+            <small>N/A</small>
+        </li>
+        <li>
+            <div class="seat selected"></div>
+            <small>Selected</small>
+        </li>
+        <li>
+            <div class="seat occupied"></div>
+            <small>Occupied</small>
+        </li>
+    </ul>
+    <div class="container">
+        <div class="stage">
+            <div class="stage-text">STAGE</div>
+        </div>
+        <div id="seats"></div>
+    </div>
+    <p class="text">
+        You have selected <span id="count">0</span> seats for a price of £<span id="total">0</span>
+
+    </p>
+    <button id="bookButton">Book</button>
+</div>
+    
+<!-- Add this just before the closing </body> tag in your html -->
+        <script src="seatScript.js"></script>
