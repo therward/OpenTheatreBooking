@@ -3,7 +3,6 @@ This is a complete seat booking system that would work best in theatres or cinem
 
 
 
-
 # Features: 
 + Adjustable seat layout to ajust to any theatre layout (From 20 seats to 1000+!) 
 + Ability to add different performances to book 
